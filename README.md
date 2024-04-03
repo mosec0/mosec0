@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @mohamed-ali101
-- 👀 I’m interested in Cyber Security
-- 💞️ I’m looking to collaborate on Helping develop cybersecurity
-- 📫 You can reach me by E-mail ma.cyber@outlook.com
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-mohamed-ali101/mohamed-ali101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is Mohamed Ali and I'm a Cyber Security Analyst and Ethical Hacker, from Egypt .</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ work in Penetration Testing And evaluate the security of systems and networks. discovering vulnerabilities and providing solutions to fix these vulnerabilities .</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
