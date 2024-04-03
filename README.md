@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Cyber Security Analyst and Ethical Hacker , from Egypt .</h1>
+<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Cyber Security Analyst and Ethical Hacker, from Egypt .</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Work in Penetration Testing And evaluate the security of systems and networks. discovering vulnerabilities and providing solutions to fix these vulnerabilities .</h3>
+<h3 align="left">Work in Penetration Testing And evaluate the security of systems and networks, discovering vulnerabilities and providing solutions to fix these vulnerabilities .</h3>
 
 ###
 
