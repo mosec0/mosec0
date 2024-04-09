@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Cyber Security Analyst and Ethical Hacker, from Egypt .</h1>
+<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Cyber Security Specialist, from Egypt .</h1>
 
 ###
 
