@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Cyber Security Researcher, from Egypt .</h1>
+<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Security Researcher, from Egypt .</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Cyber Security Researcher
+<h3 align="left">
 Work in penetration testing, vulnerability hunting, and providing security solutions around securing systems. .</h3>
 
 ###
