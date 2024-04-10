@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Cyber Security Specialist 
+<h3 align="left">Cyber Security Researcher
 Work in penetration testing, vulnerability hunting, and providing security solutions around securing systems. .</h3>
 
 ###
