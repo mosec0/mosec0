@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Cyber Security Analyst , from Egypt .</h1>
+<h1 align="left">Hey 👋  My name is Mohamed Ali and I'm a Information Security Analyst , from Egypt .</h1>
 
 ###
 
@@ -7,9 +7,7 @@
 ###
 
 <h3 align="left">
-Work in penetration testing, vulnerability hunting, and providing security solutions around securing systems. .</h3>
-
-###
+Experienced Information Security professional with a passion for uncovering vulnerabilities and securing digital infrastructure. Proficient in conducting penetration testing, vulnerability assessments. </h3>
 
 <h2 align="left">I code with</h2>
 
