@@ -1,4 +1,4 @@
-<h2 align="left">My name is Mohamed Ali, and I'm a Red Team Operator from Egypt</h2>
+<h2 align="left">My name is Mohamed Ali, and I'm a Red Team Analyst from Egypt</h2>
 <img align="right" height="220" src="https://38.media.tumblr.com/579b6ba60ad4ce790b3f368973d71c5b/tumblr_nu6zzjrpg11t6rnioo1_r1_1280.gif" />
 
 <div align="left">
