@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <img width="15" />
-  <a href="https://tryhackme.com/r/p/mosec0" target="_blank">
+  <a href="https://tryhackme.com/p/mohamedsec0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&style=for-the-badge" height="35" alt="TryHackMe logo" />
   </a>
 </div>
